@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273179754978",
+    "project_id": "uasamub-kursusbahasa-ti7a",
+    "storage_bucket": "uasamub-kursusbahasa-ti7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273179754978:android:21657ea64b03b58974b9bb",
+        "android_client_info": {
+          "package_name": "com.asus.uasamub_kursusbahasa_ti7a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273179754978-82fpnfpmu2n4tttvolgq7oulmfhtpisn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRjfWkOBOLzy6-EMP1X0sOOk-q8V0GSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273179754978-82fpnfpmu2n4tttvolgq7oulmfhtpisn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
